@@ -16,7 +16,7 @@
       },
       "stringField": {
         "type": "string",
-        "description": "The string type is used for strings of text."
+        "description": "Testing to see if this Schema is read correctly. Hello! :)"
       }
     }
   }
