@@ -3,7 +3,6 @@
     "$id": "http://example.com/myURI.schema.json",
     "title": "TestRecord",
     "description": "This is a test record to test is things are working",
-    "type": "object",
     "additionalProperties": false,
     "properties": {
       "integerField": {
