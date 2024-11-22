@@ -5,5 +5,4 @@
     "type": "object",
     "description": "This is a test record to test is things are working",
     "additionalProperties": false,
-    
-  }
+}
