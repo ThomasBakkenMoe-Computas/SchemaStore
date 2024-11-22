@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "title": "TestRecord",
+    "$id": "http://example.com/myURI.schema.json",
     "description": "This is a test record to test is things are working",
     "type": "object",
     "additionalProperties": false,
