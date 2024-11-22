@@ -2,6 +2,7 @@
     "type": "record",
     "name": "sampleRecord",
     "namespace": "com.mycorp.mynamespace",
+    "doc": "Sample schema to help you get started.",
     "fields": [
       {
         "name": "my_field1",
