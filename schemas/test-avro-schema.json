@@ -1,5 +1,5 @@
 {
-    "type": "test",
+    "type": "record",
     "name": "sampleRecord",
     "namespace": "com.mycorp.mynamespace",
     "doc": "Sample schema to help you get started.",
