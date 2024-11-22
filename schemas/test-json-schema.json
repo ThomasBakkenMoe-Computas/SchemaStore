@@ -4,5 +4,19 @@
     "title": "TestRecord",
     "type": "object",
     "description": "This is a test record to test is things are working",
-    "additionalProperties": false
+    "additionalProperties": false,
+    "properties": {
+        "integerField": {
+          "description": "The integer type is used for integral numbers.",
+          "type": "integer"
+        },
+        "numberField": {
+          "description": "The number type is used for any numeric type, either integers or floating point numbers.",
+          "type": "number"
+        },
+        "stringField": {
+          "description": "Testing to see if this Schema is read correctly. Hello! :)",
+          "type": "string"
+        }
+    }
 }
